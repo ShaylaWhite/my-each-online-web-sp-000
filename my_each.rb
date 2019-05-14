@@ -1,5 +1,5 @@
 def my_each(array)
-  
+  words = []
   i = 0
     while i < words.length 
           yield(array[i])
