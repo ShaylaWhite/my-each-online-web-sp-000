@@ -9,5 +9,5 @@ def my_each(words)
  my_each()
   
 else 
-  puts 
+  puts my_each
 end
