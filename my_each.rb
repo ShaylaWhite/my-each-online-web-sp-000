@@ -6,7 +6,7 @@ def my_each(words)
     i = i + 1
   end
  
- my_each
+ my_each()
   
 else 
   puts 
