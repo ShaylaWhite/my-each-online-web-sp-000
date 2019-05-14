@@ -8,6 +8,5 @@ def my_each(words)
  
  my_each()
 end
-else 
-  puts my_each
+
 end
