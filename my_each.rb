@@ -7,4 +7,7 @@ def my_each(words)
   end
  
   array
+  
+else 
+  puts 
 end
