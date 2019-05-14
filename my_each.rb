@@ -7,7 +7,7 @@ def my_each(words)
   end
  
  my_each()
-  
+end
 else 
   puts my_each
 end
